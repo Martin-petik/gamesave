@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+.intro h1 {
+    background-color: powderblue;
+}
+
 body {
     font-family: 'Arial', sans-serif;
     background-color: #A9A9A9;
@@ -73,6 +77,11 @@ nav ul li a:hover {
 p {
     text-align: center;
 }
+
+h1 {
+    text-align: center;
+}
+
 
 h2 {
     text-align: center;
